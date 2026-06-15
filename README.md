@@ -49,6 +49,9 @@ During this course, I explored:
 
 A simple AI-generated web application built using Google AI Studio. The project demonstrates prompt-based application generation and AI-assisted development workflows.
 
+🔗 Live Project Link:
+https://ai.studio/apps/3b877329-5150-4e9a-96a8-1abe57e77cc7
+
 ---
 ## 🎯 Goal
 
